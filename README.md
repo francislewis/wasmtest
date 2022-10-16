@@ -5,7 +5,7 @@ A simple test of compiling C to WebAssembly
 
 This is compiled using [emscripten](https://emscripten.org).
 
-Then run:
+Run:
 
 `emcc hello.c -o hello.js`
 
