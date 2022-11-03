@@ -1,7 +1,7 @@
 # wasmtest
 A simple test of compiling C to WebAssembly
 
-#Compiling
+### Compiling
 
 This is compiled using [emscripten](https://emscripten.org).
 
